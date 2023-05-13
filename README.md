@@ -1,2 +1,3 @@
-# Artist
-Scripts and programs used in my art work. 
+## Automation scripts, web scrapers, bots.
+
+
